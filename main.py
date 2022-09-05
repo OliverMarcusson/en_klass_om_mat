@@ -1,5 +1,3 @@
-from ntpath import join
-from operator import index
 import random as ra
 import time
 
