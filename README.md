@@ -33,6 +33,8 @@ En maträtt har följande metoder:
 
 Visa sedan i din main-funktion att dina metoder fungerar.
 
+SIGNING TEST!!! ✨
+
 ## Författare
 
 Niclas Lund, [email](niclas.lund@ntig.se), [Github](https://github.com/ntinacklund)
